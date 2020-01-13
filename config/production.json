@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "Mirangs mern",
+  "mongoUri": "mongodb+srv://Mirangs:123654789QWEdsa@cluster0-82x2g.azure.mongodb.net/app?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
